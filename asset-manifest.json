@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dodgallery/static/css/main.f855e6bc.css",
+    "main.js": "/dodgallery/static/js/main.9f660c1a.js",
+    "static/js/453.bc412331.chunk.js": "/dodgallery/static/js/453.bc412331.chunk.js",
+    "index.html": "/dodgallery/index.html",
+    "main.f855e6bc.css.map": "/dodgallery/static/css/main.f855e6bc.css.map",
+    "main.9f660c1a.js.map": "/dodgallery/static/js/main.9f660c1a.js.map",
+    "453.bc412331.chunk.js.map": "/dodgallery/static/js/453.bc412331.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.9f660c1a.js"
+  ]
+}
